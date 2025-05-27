@@ -2,13 +2,13 @@ package com.alura.conversorMonedas;
 
 import com.alura.conversorMonedas.service.Consulta;
 
-import java.util.InputMismatchException;
+
 import java.util.Map;
 import java.util.Scanner;
 
 public class ConversorApp {
-    private Scanner lector = new Scanner(System.in);
-    private Consulta consulta = new Consulta();
+    private final Scanner lector = new Scanner(System.in);
+    private final Consulta consulta = new Consulta();
 
     public void mensajePrincipal(){
         System.out.println
