@@ -8,7 +8,7 @@ Permite al usuario convertir entre diferentes monedas usando datos en tiempo rea
 
 ## 🚀 Tecnologías utilizadas
 
-- 💻 Java 17
+- 💻 Java 20
 - 🧪 Biblioteca Gson (para el manejo de JSON)
 - 🌐 API de [ExchangeRate-API](https://www.exchangerate-api.com/)
 - 🛠️ IDE: IntelliJ IDEA
@@ -38,7 +38,7 @@ git clone https://github.com/MrBrownstone7/desafio-alura-conversorMonedas.git
 ```
 2. Abre el proyecto en IntelliJ o tu IDE favorito.
 
-3. Asegúrate de tener configurado Java 17 y la librería Gson.
+3. Asegúrate de tener configurado Java 20 y la librería Gson.
 
 4. Ejecuta la clase principal: ConversorApp.java
 
